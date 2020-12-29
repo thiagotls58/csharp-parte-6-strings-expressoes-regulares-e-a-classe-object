@@ -1,0 +1,7 @@
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

@@ -1,0 +1,11 @@
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+E:\Cursos Alura\csharp-parte-6-strings-expressoes-regulares-e-a-classe-object\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
